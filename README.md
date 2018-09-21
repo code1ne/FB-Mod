@@ -2,6 +2,4 @@
 
 Download from Releases Tab
 
-
-
-# FB-Mod
+See [COMPILING.md](https://github.com/barry-allen07/FB-Mod/master/COMPILING.md) for build instructions
