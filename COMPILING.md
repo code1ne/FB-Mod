@@ -15,7 +15,7 @@
 `ant app`
 
 
-Output files in /dist
+Output files in /dist (.dmg file)
 
 
 
@@ -34,4 +34,4 @@ Output files in /dist
 `ant msi`
 `ant zip`
 
-Output files in /dist
+Output files in /dist 
